@@ -19,8 +19,10 @@ at-71 is a powerfull pbf maker and facebook brute force tool.
 * `chmod +x*`
 
 #### > Run :
-#### For PBF & Brute force `python passlock.py`
-#### Only Brute force  `python2 brute.py`
+#### For PBF & Brute force 
+* `python passlock.py`
+#### Only Brute force  
+* `python2 brute.py`
 
 
 ## Single Command :
