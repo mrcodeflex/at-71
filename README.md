@@ -16,11 +16,11 @@ at-71 is a powerfull pbf maker and facebook brute force tool.
 * `pip2 install requests mechanize `
 * `git clone https://github.com/imad009/at-71`
 * `cd at-71`
-* `chmod +x*`
+* `chmod +x *`
 
 #### > Run :
 #### For PBF & Brute force 
-* `python passlock.py`
+* `python2 passlock.py`
 #### Only Brute force  
 * `python2 brute.py`
 
